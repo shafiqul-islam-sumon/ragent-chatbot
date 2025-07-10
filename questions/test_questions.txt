@@ -1,0 +1,74 @@
+Here are some sample questions to test the RAG and Agent Performance. The questions are created from documents inside "data" folder.
+In addition, some general questions are also combined with those questions where multiple tools are required by the agent to answer properly.
+
+## android.txt
+1. What is the Android Open Source Project (AOSP), and how is it governed?
+Also, who originally founded Android Inc., and when did Google acquire it?
+Finally, summarize the role of AOSP in the Android ecosystem in 3 concise sentences.
+
+2. How does Google’s proprietary version of Android differ from the open-source AOSP?
+Also, what are some of the most recent features added to Android in the past year?
+And finally, compare Android's evolution over the last 10 years with iOS in a short paragraph.
+
+3. Which specialized versions of Android exist for devices like TVs, smartwatches, and cars?
+Also, what is the current global market share of Android vs. iOS?
+If Android held 72.6% and iOS 26.3%, what is the remaining percentage held by other systems?
+
+
+## drawing.txt
+1. Can AI directly detect objects in .dwg files as per the uploaded content?
+Also, is there any current open-source tool that supports .dwg without converting to .dxf?
+
+2. Summarize the sample experiment steps from the uploaded file.
+Also, check if Python has any native .dwg editing libraries today.
+
+3. What geometric objects were detected in the drawing?
+Briefly explain what a POLYLINE is. Then summarize both in 2 bullets.
+
+## employee.xlsx
+1. What is the average salary of employees in the SALE department?
+Also, who is the current president of the United States?
+
+2. How many employees have a high job satisfaction rating?
+Summarize what high job satisfaction might imply in a workplace.
+
+3. What is the salary of the employee named "Downs, Deborah"?
+What’s the weather like today in Tokyo?
+
+## jargon.pdf
+1. What is a MAC address and how is it different from an IP address?
+Also, who developed the IP protocol, and when was it first introduced?
+
+2. What is a firewall according to this glossary?
+Now, tell me the top 2 firewall software used by enterprises today.
+
+3. What are the speed units Mbps and MBps, and what do they stand for?
+If I download a 2 GB file at 50 Mbps, how long will it take? Show calculation.
+
+## llm.docx
+1. How can I analyze a Word document using OpenAI?
+Also, what tool would help me check today’s weather?
+
+2. Can OpenAI create or edit DOCX files directly?
+By the way, what is 512÷8×3512÷8×3 ?
+
+3. What Python tools are used to edit DOCX documents with OpenAI?
+Also, who founded Wikipedia?
+
+## products.csv
+1. What is the price and stock of Smart Blender Cooker?
+What are the latest kitchen product trends?
+
+2. Who makes the Tablet? Is it in stock?
+What does EAN mean?
+
+3. What color and size is the Portable Mouse Monitor Phone?
+What’s the cost for 3 units?
+
+## quiz.json
+1. What does CPU stand for? Also, calculate 256 * 4 + (42/6) - 12.
+
+2. Who invented the World Wide Web? Then summarize the invention in one sentence.
+
+3. What is the function of RAM in a computer? Also, tell me what Wikipedia says about RAM.
+

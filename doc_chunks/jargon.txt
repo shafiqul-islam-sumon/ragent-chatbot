@@ -1,0 +1,437 @@
+### Chunk Order: 0
+Information Technology Department
+Glossary of Terms
+Access Point (AP)
+• a wireless access point is a networking hardware device that allows a Wi-Fi compliant device to
+connect to a wired network.
+Active Directory (AD)
+• A directory service developed by Micorsoft which is in charge of domain management by
+authenticating users, computers, and other periphials within a domain. AD grants a user access
+to computers, files, and applications through a password system.
+Cache
+
+---
+
+### Chunk Order: 1
+to computers, files, and applications through a password system.
+Cache
+• The temporary storage space or memory that allows fast access to data. A common use is to
+store information in a web browser.
+Cat6
+• (Category 6) A cable used in networks. Many cables are still Cat 5 with newer installations
+utilizing Cat6.
+Cloud Computing
+• Storing and accessing information and services via the internet. The servers are not operated,
+
+---
+
+### Chunk Order: 2
+• Storing and accessing information and services via the internet. The servers are not operated,
+backuped, nor mainted by SCOE IT department. Aeries student information system and Escape
+are two applications that currently based in the cloud.
+Cold Boot
+• Powering a computer up from the off position. A cold boot runs additional internal routines that
+are not otherwise ran with a warm boot.
+Cookies
+• are text files retained on computers by browsers containing various information in regards to a
+
+---
+
+### Chunk Order: 3
+• are text files retained on computers by browsers containing various information in regards to a
+specific website visit.
+Content Filtering
+• Technique whereby media is blocked or allowed based on analysis of its content, rather than its
+source or other criteria.
+• It is most widely used on the internet to filter email and web access.
+Connectivity Types
+• DSL- digital subscriber line connection that uses the same wires as a regular telephone line.
+
+---
+
+### Chunk Order: 4
+• DSL- digital subscriber line connection that uses the same wires as a regular telephone line.
+• T1 – Often a fiber optic line, it can carry 24 digitized voice channels or can carry data at the
+speed of 1.5 Mbps. The term T1 & DS1 are often used interchangeably.
+• DS3 – Using a coaxial cable, it is comprised of three DS1s and carries 28 DS1 level signals
+• Fiber (Optics) Cabling that has a core made of strands of glass or plastic, through which light
+
+---
+
+### Chunk Order: 5
+• Fiber (Optics) Cabling that has a core made of strands of glass or plastic, through which light
+pulses are carried. Fiber has many advantages over copper in terms of transmission rate and
+signal integrity over distance; however, it is more expensive and more difficult to work with
+1 y:\technology training\new ee tech trng\it dept glossary of terms.docx
+
+---
+
+### Chunk Order: 6
+• Metro E - A metropolitan-area network that is based on Ethernet standards. It is commonly used
+to connect subscribers to a larger service network or the Internet.
+Data Center
+• Is a facility used to house computer systems and associated components, such as
+telecommunications and storage systems.
+• It generally includes redundant or backup power supplies, redundant data communications
+connections, environmental controls (e.g., air conditioning, fire suppression) and security
+devices.
+DHCP
+
+---
+
+### Chunk Order: 7
+devices.
+DHCP
+• Dynamic Host Configuration Protocol provides a mechanism for allocating IP addresses
+dynamically, so that addresses can be reused when hosts no longer need them.
+Directory
+• A type of file that organizes other files in a hierarchical structure
+DNS
+• Domain Name System is an Internet service that converts names to IP addresses. A common
+analogy would be a system that could use either your home address or the parcel number and
+still locate your residence.
+Domain
+
+---
+
+### Chunk Order: 8
+still locate your residence.
+Domain
+• A logical group of computers and electronic devices with a common set of rules and procedures
+administered as a unit.
+• Can be looked at as neighborhoods within a community
+E-Rate
+• E-Rate is the commonly used name for the Schools and Libraries Program of the Universal
+Service Fund, which is administered by the Universal Service Administrative Company (USAC)
+under the direction of the Federal Communications Commission (FCC).
+
+---
+
+### Chunk Order: 9
+under the direction of the Federal Communications Commission (FCC).
+• The program provides discounts to assist schools and libraries to obtain affordable
+telecommunications and Internet access.
+• It is one of four support programs funded through a Universal Service fee charged to companies
+that provide interstate and/or international telecommunications services.
+Ethernet
+• a system for connecting a number of computer systems to form a local area network, with
+
+---
+
+### Chunk Order: 10
+Ethernet
+• a system for connecting a number of computer systems to form a local area network, with
+protocols to control the passing of information and to avoid simultaneous transmission by two
+or more systems.
+File Transfer Protocol (FTP)
+• The protocol used by to send files over the Internet.
+• FTP Site is a server established primarily to transfer files over the internet
+Firewall
+• Is a part of a computer system or network that is designed to block unauthorized access while
+
+---
+
+### Chunk Order: 11
+• Is a part of a computer system or network that is designed to block unauthorized access while
+permitting authorized communications.
+2 y:\technology training\new ee tech trng\it dept glossary of terms.docx
+
+---
+
+### Chunk Order: 12
+• It is a device or set of devices which is configured to permit or deny computer applications
+based upon a set of rules and other criteria
+Gateway
+• A device that routes traffic between networks
+Global Address List
+• An electronically shared address book which contains the people and resources of a given
+organization which is accessed over the network using LDAP protocol.
+Hard Shutdown
+• Turning off a computer by pressing and holding the power button until the system turns off
+
+---
+
+### Chunk Order: 13
+• Turning off a computer by pressing and holding the power button until the system turns off
+Internet of Things (IoT)
+• The internetworking of physical devices, vehicles, buildings, household items which have
+embedded electronics, software, and network connectivity that enable these objects to collect
+and exchange data.
+Intranet
+• a local or restricted communications network i.e. just within SCOE, created using World Wide
+Web software
+IP Address
+
+---
+
+### Chunk Order: 14
+Web software
+IP Address
+• A numerical identifier for an electronic device on a network utilizing the TCP/IP protocol in the
+form of a 32-bit numeric address written as four numbers separated by periods
+ISP
+• Internet Service Provider is a company that provides users with a connection to the Internet.
+• SCOE is the ISP for the districts
+K12HSN
+• The K-12high speed network, funded by California, exclusively for educational facilities which
+
+---
+
+### Chunk Order: 15
+• The K-12high speed network, funded by California, exclusively for educational facilities which
+has the capacity to deliver high quality online resources to support teaching and learning and
+promote academic achievement.
+Kicking
+• Re-booting a device either with a cold or warm boot
+LDAP
+• The Lightweight Directory Access Protocol is an industry standard application protocol for
+accessing and maintaining distributed directory information services over a network.
+
+---
+
+### Chunk Order: 16
+accessing and maintaining distributed directory information services over a network.
+• Allows the sharing of information about users, systems, networks, services, and applications
+throughout the network.
+• As examples, directory services may provide any organized set of records, often with a
+hierarchical structure, such as a corporate email directory.
+Local Area Network (LAN)
+3 y:\technology training\new ee tech trng\it dept glossary of terms.docx
+
+---
+
+### Chunk Order: 17
+• Is a computer network that covers a small geographical area, like an office or a small group of
+buildings, for instance SCOE, Enterprise ESD, and Pacheco ESD.
+• Often have high data-transfer rates between the individual components as in the district office
+and school sites.
+• Do not require leased communication lines
+MAC Address
+• Each network interface has a media access control address, or MAC address — also known as a
+physical address.
+
+---
+
+### Chunk Order: 18
+physical address.
+• This is a unique identifier designed to identify different computers on a network.
+• MAC addresses are usually assigned when a manufacturer creates a network device.
+Measurements of Space
+• Bit – single binary digit (1 or 0)
+• Byte - 8 bits
+• Kilobytes (KB) – 1,024 bytes
+• Megabyte (MB) – 1,024 Kilobytes. Referred to as a meg.
+• Gigabyte (GB) – 1,024 Megabytes. Referred to as a gig.
+• Terabyte (TB) – 1,024 Gigabytes
+• Petabyte (PB) – 1,024 Terabytes
+
+---
+
+### Chunk Order: 19
+• Terabyte (TB) – 1,024 Gigabytes
+• Petabyte (PB) – 1,024 Terabytes
+• Exabyte (EB) – 1,024 Petabytes
+Measurements of Speed
+• Megabit per second (Mbps) - Data transfer rate of approximately 1,000,000 (106) bits per
+second over a network connection.
+• Megabyte per second (MBps) - Data transfer rate of approximately 1,000,000 (106) bytes per
+second over a network connection.
+• Megahertz (Mhz) - One million cycles per second. This is a common measurement of the speed
+of a processing chip.
+
+---
+
+### Chunk Order: 20
+of a processing chip.
+• Kilobits per second (Kbps) - Data transfer rate of approximately 1,000 bits per second over a
+network connection.
+• Kilobytes per second (KBps) –Data transfer rate of approximately 1,000 bytes per second over a
+network connection.
+Network Interface Card (NIC)
+• is a card that typically goes into a computer or device and connects to the network medium
+(Ethernet or wireless) which in turn is connected to other computers on the network.
+Network Infrastructure
+
+---
+
+### Chunk Order: 21
+Network Infrastructure
+• Communications in data centers are most often based on networks running theTCP/IP protocol
+suite, which is a set of multi-layered procedures, each layer solving a set of problems involving
+the transmission of data.
+• Data centers contain a set of routers and switches that transport traffic between the servers and
+to the outside world.
+• Some of the servers at the data center are used for running the basic Internet and intranet
+
+---
+
+### Chunk Order: 22
+• Some of the servers at the data center are used for running the basic Internet and intranet
+services needed by internal users in the organization. Common servers are e-mail, proxy, and
+DNS servers.
+4 y:\technology training\new ee tech trng\it dept glossary of terms.docx
+
+---
+
+### Chunk Order: 23
+Proxy servers are essentially the gatekeeper to data to ensure the requestor is
+o
+authorized to receive the information that they have requested.
+DNS servers provide a user-friendly address for computers, very similar to our home
+o
+address and the parcel number of our lot kept within the county records.
+• Network security elements are also usually deployed: firewalls, VPN gateways, and intrusion
+detection systems.
+
+---
+
+### Chunk Order: 24
+detection systems.
+• Also common are monitoring systems for the network and some of the applications. Additional
+off site monitoring systems are also typical, in case of a failure of communications inside the
+data center.
+Network Operations Center (NOC)
+• Is a central location from which to exercise control over a computer network.
+• It is responsible for monitoring the network for conditions that may require special attention to
+avoid impact on the network’s performance.
+Node
+
+---
+
+### Chunk Order: 25
+avoid impact on the network’s performance.
+Node
+• Endpoint of a network connection or a junction common to two or more lines in a network.
+• SCOE is the northern California node site for the K12HSN.
+Packet
+• One piece of data along with a destination address used in a packet switching network.
+Peripheral
+• Any device in a computer system that is not essential to the operation of the computer. Printers
+and scanners are just two examples.
+Pixel
+
+---
+
+### Chunk Order: 26
+and scanners are just two examples.
+Pixel
+• Picture Element is the smallest part of a graphic image. Many pixels close together make up the
+image on the computer monitor.
+Plug and Play (PnP)
+• Describes the ability of a computer to automatically configure the devices that connect to it, for
+example printers. .
+Point-to-Point
+• A one-to-one connection.
+Post Office Protocol (POP)
+• Protocol used by e-mail clients on a network to retrieve e-mail from the mail server.
+Port
+
+---
+
+### Chunk Order: 27
+• Protocol used by e-mail clients on a network to retrieve e-mail from the mail server.
+Port
+• An interface on the computer or device where a device is connected.
+POTS
+• Plain Old Telephone Service
+PPM
+5 y:\technology training\new ee tech trng\it dept glossary of terms.docx
+
+---
+
+### Chunk Order: 28
+• Pages Per Minute
+Printer Driver
+• A program that feeds data to a printer with the correct control commands for that certain
+printer
+Print Server
+• A computer, currently Print2, that manages one or more printers for computers on a network.
+Protocol
+• A set of rules by which computers communicate. A protocol is much like the syntax of a
+language rather than the language itself.
+QoS
+• Quality of Service is a term applied to networks that allows service providers (SCOE for the
+
+---
+
+### Chunk Order: 29
+QoS
+• Quality of Service is a term applied to networks that allows service providers (SCOE for the
+districts) to guarantee their customers a specific throughput level on the network
+Raspberry Pie
+• A credit card-sized computer that can be used in electronics projects. SCOE utilizes them in
+monitoring devices and digital technology.
+Responsive Web Design (RWD)
+• SCOE upgraded website to incorporate RWD.
+
+---
+
+### Chunk Order: 30
+Responsive Web Design (RWD)
+• SCOE upgraded website to incorporate RWD.
+• RWD allows a website to resize and/or reposition itself when viewed on different size devices
+Root Directory
+• The uppermost directory in a file system
+Router
+• A network device whose software and hardware are customized to the tasks of routing and
+forwarding information, similar to the USPS.
+Switches
+• A network device that connects various portions of local area computer networks together.
+
+---
+
+### Chunk Order: 31
+• A network device that connects various portions of local area computer networks together.
+Users are familiar with plugging their computer into the wall using a network cable. On the
+other side of the wall, all of the cables are plugged into the switch and then switch is in turn
+plugged into routers.
+URL
+• A uniform resource locator, or URL, is also known as a web address. The current URL is displayed
+in your web browser’s address bar.
+
+---
+
+### Chunk Order: 32
+in your web browser’s address bar.
+• For example, http://www.shastacoe.org/article is an URL that tells your computer to use the
+hypertext transfer protocol HTTP to connect to the server at shastacoe.org and ask for the file
+named article in the root directory.
+Virtual Private Network (VPN)
+6 y:\technology training\new ee tech trng\it dept glossary of terms.docx
+
+---
+
+### Chunk Order: 33
+• A network that allows the internet to be used like it is connected to a private network, as
+opposed to a public one, and so can improve security
+Virtual Server
+• A server, one physical box that shares its resources amongst multiple applications rather than
+being a dedicated server running only one application.
+• The 1:N relationship allows for one server to be effectively used rather than several being only
+partially used.
+Warm Boot
+
+---
+
+### Chunk Order: 34
+partially used.
+Warm Boot
+• Restarting a computer that is already turned on without first turning it off.
+Wide Area Network (WAN)
+• Is a computer network that covers a broad area, for instance Shasta County, whose
+communications links cross numerous metropolitan areas, i.e. Redding, Anderson, Dunsmuir,
+and Fall River.
+• Used to connect independent LANs together so that, if desired, they may communicate with
+each other.
+
+---
+
+### Chunk Order: 35
+each other.
+• Require leased communication lines from LAN to central point (SCOE NOC) then out to the wide
+world web (WWW) or cloud. AT&T, Frontier and Charter are providers for the Shasta County
+district customers.
+7 y:\technology training\new ee tech trng\it dept glossary of terms.docx
+
+---
+

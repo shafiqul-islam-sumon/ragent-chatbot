@@ -1,0 +1,65 @@
+### Chunk Order: 0
+3D Drawing
+
+Feasibility
+
+It is possible to measure different parts of design diagram
+
+But there is no such AI model to detect object from .dwg file
+
+So we can not use any AI model
+
+There is a python lib called “ezdxf” which can detect different types of component like (line, arc, circle, polyline etc.) and measure their length
+
+But “ezdxf” works on “.dxf” file. It can not directly work on “.dwg” file.
+
+So first, we need to convert “.dwg” file to “.dxf” file using “AudoDesk” software.
+
+---
+
+### Chunk Order: 1
+So first, we need to convert “.dwg” file to “.dxf” file using “AudoDesk” software.
+
+Then process that file (detect component and measure length) using  “ezdxf” lib.
+
+Finally, convert “.dxf” file to original “.dwg” file using “AudoDesk” software.
+
+We, need to apply rule-based methods to handle different scenarios.
+
+
+
+Sample Experiment
+
+I created a sample design diagram using python code and “ezdxf” lib. The diagram consists of a rectangle and 3 circles. Have a look at the right diagram.
+
+---
+
+### Chunk Order: 2
+I saved the file as .dxf file
+
+Then I load that file in another script and dynamically detected different components (i.e: line, circle) and measured their length.
+
+I put mesurement texts on the components by using bounday lines (green, orange, blue colored lines).
+
+The line weight is very narrow. So it might be difficult to see it.
+
+
+
+What is feasible
+
+The following items are feasible to measure:
+
+Line
+
+Cirlcle
+
+Arc
+
+ELLIPSE
+
+POLYLINE
+
+POINT
+
+---
+

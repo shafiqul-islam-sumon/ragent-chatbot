@@ -1,0 +1,481 @@
+### Chunk Order: 0
+Name: Ritchie, Darnell
+Years: 7.0
+Gender: M
+Dept: ADMN
+Salary: 53788.26
+JobSat: med
+Plan: 1
+Pre: 82
+Post: 92
+
+---
+
+### Chunk Order: 1
+Name: Wu, James
+Years: nan
+Gender: M
+Dept: SALE
+Salary: 94494.58
+JobSat: low
+Plan: 1
+Pre: 62
+Post: 74
+
+---
+
+### Chunk Order: 2
+Name: Hoang, Binh
+Years: 15.0
+Gender: M
+Dept: SALE
+Salary: 111074.86
+JobSat: low
+Plan: 3
+Pre: 96
+Post: 97
+
+---
+
+### Chunk Order: 3
+Name: Jones, Alissa
+Years: 5.0
+Gender: W
+Dept: nan
+Salary: 53772.58
+JobSat: nan
+Plan: 1
+Pre: 65
+Post: 62
+
+---
+
+### Chunk Order: 4
+Name: Downs, Deborah
+Years: 7.0
+Gender: W
+Dept: FINC
+Salary: 57139.9
+JobSat: high
+Plan: 2
+Pre: 90
+Post: 86
+
+---
+
+### Chunk Order: 5
+Name: Afshari, Anbar
+Years: 6.0
+Gender: W
+Dept: ADMN
+Salary: 69441.93
+JobSat: high
+Plan: 2
+Pre: 100
+Post: 100
+
+---
+
+### Chunk Order: 6
+Name: Knox, Michael
+Years: 18.0
+Gender: M
+Dept: MKTG
+Salary: 99062.66
+JobSat: med
+Plan: 3
+Pre: 81
+Post: 84
+
+---
+
+### Chunk Order: 7
+Name: Campagna, Justin
+Years: 8.0
+Gender: M
+Dept: SALE
+Salary: 72321.36
+JobSat: low
+Plan: 1
+Pre: 76
+Post: 84
+
+---
+
+### Chunk Order: 8
+Name: Kimball, Claire
+Years: 8.0
+Gender: W
+Dept: MKTG
+Salary: 61356.69
+JobSat: high
+Plan: 2
+Pre: 93
+Post: 92
+
+---
+
+### Chunk Order: 9
+Name: Cooper, Lindsay
+Years: 4.0
+Gender: W
+Dept: MKTG
+Salary: 56772.95
+JobSat: high
+Plan: 1
+Pre: 78
+Post: 91
+
+---
+
+### Chunk Order: 10
+Name: Saechao, Suzanne
+Years: 8.0
+Gender: W
+Dept: SALE
+Salary: 55545.25
+JobSat: med
+Plan: 1
+Pre: 98
+Post: 100
+
+---
+
+### Chunk Order: 11
+Name: Pham, Scott
+Years: 13.0
+Gender: M
+Dept: SALE
+Salary: 81871.05
+JobSat: high
+Plan: 2
+Pre: 90
+Post: 94
+
+---
+
+### Chunk Order: 12
+Name: Tian, Fang
+Years: 9.0
+Gender: W
+Dept: ACCT
+Salary: 71084.01999999999
+JobSat: med
+Plan: 2
+Pre: 60
+Post: 61
+
+---
+
+### Chunk Order: 13
+Name: Bellingar, Samantha
+Years: 10.0
+Gender: W
+Dept: SALE
+Salary: 66337.83
+JobSat: med
+Plan: 1
+Pre: 67
+Post: 72
+
+---
+
+### Chunk Order: 14
+Name: Sheppard, Cory
+Years: 14.0
+Gender: M
+Dept: FINC
+Salary: 95027.55
+JobSat: low
+Plan: 3
+Pre: 66
+Post: 73
+
+---
+
+### Chunk Order: 15
+Name: Kralik, Laura
+Years: 10.0
+Gender: W
+Dept: SALE
+Salary: 92681.19
+JobSat: med
+Plan: 2
+Pre: 74
+Post: 71
+
+---
+
+### Chunk Order: 16
+Name: Skrotzki, Sara
+Years: 18.0
+Gender: W
+Dept: MKTG
+Salary: 91352.33
+JobSat: med
+Plan: 2
+Pre: 63
+Post: 61
+
+---
+
+### Chunk Order: 17
+Name: Correll, Trevon
+Years: 21.0
+Gender: M
+Dept: SALE
+Salary: 134419.22999999998
+JobSat: low
+Plan: 1
+Pre: 97
+Post: 94
+
+---
+
+### Chunk Order: 18
+Name: James, Leslie
+Years: 18.0
+Gender: W
+Dept: ADMN
+Salary: 122563.38
+JobSat: low
+Plan: 3
+Pre: 70
+Post: 70
+
+---
+
+### Chunk Order: 19
+Name: Osterman, Pascal
+Years: 5.0
+Gender: M
+Dept: ACCT
+Salary: 49704.79
+JobSat: high
+Plan: 3
+Pre: 69
+Post: 70
+
+---
+
+### Chunk Order: 20
+Name: Adib, Hassan
+Years: 14.0
+Gender: M
+Dept: SALE
+Salary: 83014.43
+JobSat: med
+Plan: 2
+Pre: 71
+Post: 69
+
+---
+
+### Chunk Order: 21
+Name: Gvakharia, Kimberly
+Years: 3.0
+Gender: W
+Dept: SALE
+Salary: 49868.68
+JobSat: med
+Plan: 2
+Pre: 83
+Post: 79
+
+---
+
+### Chunk Order: 22
+Name: Stanley, Grayson
+Years: 9.0
+Gender: M
+Dept: SALE
+Salary: 69624.87
+JobSat: low
+Plan: 1
+Pre: 74
+Post: 73
+
+---
+
+### Chunk Order: 23
+Name: Link, Thomas
+Years: 10.0
+Gender: M
+Dept: FINC
+Salary: 66312.89
+JobSat: low
+Plan: 1
+Pre: 83
+Post: 83
+
+---
+
+### Chunk Order: 24
+Name: Portlock, Ryan
+Years: 13.0
+Gender: M
+Dept: SALE
+Salary: 77714.85
+JobSat: low
+Plan: 1
+Pre: 72
+Post: 73
+
+---
+
+### Chunk Order: 25
+Name: Langston, Matthew
+Years: 5.0
+Gender: M
+Dept: SALE
+Salary: 49188.96
+JobSat: low
+Plan: 3
+Pre: 94
+Post: 93
+
+---
+
+### Chunk Order: 26
+Name: Stanley, Emma
+Years: 3.0
+Gender: W
+Dept: ACCT
+Salary: 46124.97
+JobSat: high
+Plan: 2
+Pre: 86
+Post: 84
+
+---
+
+### Chunk Order: 27
+Name: Singh, Niral
+Years: 2.0
+Gender: W
+Dept: ADMN
+Salary: 61055.44
+JobSat: high
+Plan: 2
+Pre: 59
+Post: 59
+
+---
+
+### Chunk Order: 28
+Name: Anderson, David
+Years: 9.0
+Gender: M
+Dept: ACCT
+Salary: 69547.6
+JobSat: low
+Plan: 1
+Pre: 94
+Post: 91
+
+---
+
+### Chunk Order: 29
+Name: Fulton, Scott
+Years: 13.0
+Gender: M
+Dept: SALE
+Salary: 87785.51
+JobSat: low
+Plan: 1
+Pre: 72
+Post: 73
+
+---
+
+### Chunk Order: 30
+Name: Korhalkar, Jessica
+Years: 2.0
+Gender: W
+Dept: ACCT
+Salary: 72502.5
+JobSat: nan
+Plan: 2
+Pre: 74
+Post: 87
+
+---
+
+### Chunk Order: 31
+Name: LaRoe, Maria
+Years: 10.0
+Gender: W
+Dept: MKTG
+Salary: 61961.29
+JobSat: high
+Plan: 2
+Pre: 80
+Post: 86
+
+---
+
+### Chunk Order: 32
+Name: Billing, Susan
+Years: 4.0
+Gender: W
+Dept: ADMN
+Salary: 72675.26000000001
+JobSat: med
+Plan: 2
+Pre: 91
+Post: 90
+
+---
+
+### Chunk Order: 33
+Name: Capelle, Adam
+Years: 24.0
+Gender: M
+Dept: ADMN
+Salary: 108138.43
+JobSat: med
+Plan: 2
+Pre: 83
+Post: 81
+
+---
+
+### Chunk Order: 34
+Name: Hamide, Bita
+Years: 1.0
+Gender: W
+Dept: MKTG
+Salary: 51036.85
+JobSat: high
+Plan: 2
+Pre: 83
+Post: 90
+
+---
+
+### Chunk Order: 35
+Name: Anastasiou, Crystal
+Years: 2.0
+Gender: W
+Dept: SALE
+Salary: 56508.32
+JobSat: low
+Plan: 2
+Pre: 59
+Post: 71
+
+---
+
+### Chunk Order: 36
+Name: Cassinelli, Anastis
+Years: 10.0
+Gender: M
+Dept: FINC
+Salary: 57562.36
+JobSat: high
+Plan: 1
+Pre: 80
+Post: 87
+
+---
+
