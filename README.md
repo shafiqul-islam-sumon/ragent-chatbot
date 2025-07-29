@@ -8,7 +8,6 @@ The **RAGent Chatbot** is a smart, modular, and explainable AI assistant that co
   <img src="figure/thumbnail.png" width="75%" alt="RAGent Chatbot UI Preview"/>
 </div>
 
----
 
 ## 🧠 What Can RAGent Do?
 
@@ -20,7 +19,6 @@ The **RAGent Chatbot** is a smart, modular, and explainable AI assistant that co
   <li>💬 Maintain chat context using memory for natural multi-turn conversations</li>
 </ul>
 
----
 
 ## 🧱 Architecture Highlights
 
@@ -32,7 +30,6 @@ The **RAGent Chatbot** is a smart, modular, and explainable AI assistant that co
   <li>🖥️ <b>Gradio UI</b>: Intuitive chat + upload interface</li>
 </ul>
 
----
 
 ## 🛠 Tech Stack
 
@@ -44,14 +41,13 @@ The **RAGent Chatbot** is a smart, modular, and explainable AI assistant that co
 | 💬 UI         | Gradio                              |
 | 🧰 Tools      | Tavily API, OpenWeather, Wikipedia, Calculator |
 
----
 
 ## 📸 Live Preview
 
 Try the RAGent Chatbot in your browser and upload your own documents:
 
 - 🤗 **Hugging Face App**: [Try it Live](https://huggingface.co/spaces/shafiqul1357/ragent-chatbot)
----
+
 
 ## 🧪 Sample Prompts
 
@@ -63,7 +59,6 @@ Try the RAGent Chatbot in your browser and upload your own documents:
   <li>✍️ "Summarize the benefits of LangChain" → Falls back to <b>llm_instruction</b> tool</li>
 </ul>
 
----
 
 ## 🚀 How It Works (Quick Summary)
 
@@ -76,7 +71,6 @@ Try the RAGent Chatbot in your browser and upload your own documents:
 4. 🔄 **Responds intelligently** → Step-by-step reasoning with full transparency
 5. 🧠 **Context retained** → Chat memory keeps track of all past Q&A
 
----
 
 ## ✨ Want to Learn More?
 
@@ -85,5 +79,3 @@ Try the RAGent Chatbot in your browser and upload your own documents:
 👉 [📝 Read the Full Guide](https://shafiqulai.github.io/blogs/blog_6.html?id=6)
 
 This guide walks you through the architecture, ReAct prompts, tool integration, and Qdrant-based hybrid search — everything from concept to deployment.
-
----
