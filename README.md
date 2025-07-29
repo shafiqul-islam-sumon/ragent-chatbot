@@ -1,64 +1,89 @@
+# 🤖 RAGent Chatbot — Intelligent RAG + ReAct Assistant
+
+> 💡 **Blog Guide**: [How This Chatbot is Built](https://shafiqulai.github.io/blogs/blog_6.html?id=6)
+
+The **RAGent Chatbot** is a smart, modular, and explainable AI assistant that combines **Retrieval-Augmented Generation (RAG)** with **ReAct-style agent reasoning**. It goes beyond document Q&A — deciding when to read, when to think, and when to act using tools like web search, Wikipedia, calculator, and more.
+
+<div align="center">
+  <img src="figure/thumbnail.png" width="75%" alt="RAGent Chatbot UI Preview"/>
+</div>
+
 ---
-title: RAGent Chatbot
-emoji: 🤖
-colorFrom: blue
-colorTo: green
-sdk: gradio
-sdk_version: 5.36.2
-app_file: app.py
-pinned: false
-license: mit
-short_description: A Smart AI chatbot powered by RAG and AGENT
+
+## 🧠 What Can RAGent Do?
+
+<ul style="padding-left: 40px;">
+  <li>📄 Answer questions from uploaded documents (PDF, DOCX, PPTX, XLSX, TXT, CSV, JSON)</li>
+  <li>🛠️ Use external tools dynamically — web search, weather, Wikipedia, calculator, etc.</li>
+  <li>🔍 Combine semantic and keyword search using <b>hybrid retrieval</b></li>
+  <li>🧠 Think step-by-step using the <b>ReAct agent framework</b></li>
+  <li>💬 Maintain chat context using memory for natural multi-turn conversations</li>
+</ul>
+
 ---
 
-## 💬 Ragent Chatbot Preview
+## 🧱 Architecture Highlights
 
-![App Preview](figure/thumbnail.png)
+<ul style="padding-left: 40px;">
+  <li>🤖 <b>ReAct Agent</b>: Reasoning + tool calling in a loop: Thought → Action → Observation → Final Answer</li>
+  <li>📚 <b>RAG Pipeline</b>: Retrieves relevant chunks from Qdrant DB and answers with Gemini LLM</li>
+  <li>🛠️ <b>Custom Tooling</b>: Extensible tool framework (BaseTool) with weather, web, wiki, calculator, LLM, etc.</li>
+  <li>💾 <b>Memory</b>: Per-session chat history powered by MemoryManager</li>
+  <li>🖥️ <b>Gradio UI</b>: Intuitive chat + upload interface</li>
+</ul>
 
-# 🤖 Ragent Chatbot
+---
 
-**Ragent Chatbot** is an intelligent **retrieval-augmented agent assistant** powered by LLMs. It combines the power of **RAG (Retrieval-Augmented Generation)** with **agent-based tool reasoning**, allowing it to dynamically respond using retrieved knowledge or external tools depending on the query.
+## 🛠 Tech Stack
 
-## 🧠 What It Can Do
+| Layer        | Technology                          |
+|--------------|--------------------------------------|
+| 🧠 LLM        | Google Gemini via LangChain          |
+| 📦 Embeddings | BAAI/bge-base-en-v1.5               |
+| 🔍 Vector DB  | Qdrant (supports hybrid search)     |
+| 💬 UI         | Gradio                              |
+| 🧰 Tools      | Tavily API, OpenWeather, Wikipedia, Calculator |
 
-- Answer user questions by retrieving information from a custom document store
-- You can upload any document and then ask the chatbot to retrieve answer of your question.
-- Automatically decide when to use tools (like search, calculator, etc.)
-- Combine multiple steps of reasoning using the ReAct agent pattern
+---
 
-## 🛠 Features
+## 📸 Live Preview
 
-- 🔎 **Hybrid Search**: Combines vector similarity and BM25 keyword matching for relevant document retrieval
-- 🤖 **ReAct Agent**: Uses tool-based reasoning when knowledge retrieval is insufficient
-- 💬 **Gradio Chat UI**: Simple and responsive chat interface
-- 🧱 **Modular Tools**: Easily extendable with tools like web search, calculator, and custom APIs
+Try the RAGent Chatbot in your browser and upload your own documents:
 
-## 📦 Stack
+- 🤗 **Hugging Face App**: [Try it Live](https://huggingface.co/spaces/shafiqul1357/ragent-chatbot)
+---
 
-- **Frontend:** Gradio
-- **Agent Framework:** LangChain (ReAct agent)
-- **Vector DB:** Qdrant
-- **LLM:** Gemini
-- **Embedding Model:** BAAI/bge-large-en-v1.5
+## 🧪 Sample Prompts
 
-## 🔍 Example Queries
+<ul style="padding-left: 40px;">
+  <li>🗃️ "What is the IT budget for 2023?" → Answer from your document using <b>rag_search</b></li>
+  <li>🌦️ "What’s the weather in Tokyo today?" → Uses <b>weather</b> tool via OpenWeather API</li>
+  <li>📚 "What is quantum computing?" → Searches <b>Wikipedia</b></li>
+  <li>➗ "What’s 245 * 92?" → Invokes <b>calculator</b></li>
+  <li>✍️ "Summarize the benefits of LangChain" → Falls back to <b>llm_instruction</b> tool</li>
+</ul>
 
-Try asking questions like:
+---
 
-1. **"What is LangChain and how is it different from LlamaIndex?"**  
-2. **"Who is the CEO of OpenAI and when was the company founded?"**  
-3. **"What is 245 * 92?"**  
+## 🚀 How It Works (Quick Summary)
 
-💡 The chatbot decides whether to use RAG or call tools like calculator or web search automatically!
+1. 📂 **Upload documents** → Processed & chunked with overlapping windows
+2. 📦 **Store chunks** → Embedded using BAAI and stored in Qdrant with tokenized keywords
+3. 💬 **Ask a question** → ReAct agent decides whether to use:
+   - rag_search for document-based answers
+   - tools like web_search, wikipedia, calculator, weather
+   - or fallback to Gemini via llm_instruction
+4. 🔄 **Responds intelligently** → Step-by-step reasoning with full transparency
+5. 🧠 **Context retained** → Chat memory keeps track of all past Q&A
 
+---
 
-## 🔗 GitHub Repository
+## ✨ Want to Learn More?
 
-You can explore the full source code, Docker setup, and implementation details on GitHub:
+📘 Dive deeper into the design, code, and reasoning logic in our full blog post:
 
-[👉 RAGent Chatbot](https://github.com/shafiqul-islam-sumon/ragent-chatbot)
+👉 [📝 Read the Full Guide](https://shafiqulai.github.io/blogs/blog_6.html?id=6)
 
+This guide walks you through the architecture, ReAct prompts, tool integration, and Qdrant-based hybrid search — everything from concept to deployment.
 
-## 🚀 Try It Live
-
-- Click url to launch the app in Hugging Face: [RAGent Chatbot](https://huggingface.co/spaces/shafiqul1357/ragent-chatbot)
+---
