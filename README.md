@@ -1,6 +1,6 @@
 # 🤖 RAGent Chatbot — Intelligent RAG + ReAct Assistant
 
-> 💡 **Blog Guide**: [How This Chatbot is Built](https://shafiqulai.github.io/blogs/blog_6.html?id=6)
+> 💡 **Blog Guide**: [How This Chatbot is Built](https://shafiqulai.github.io/blogs/blog_6.html)
 
 The **RAGent Chatbot** is a smart, modular, and explainable AI assistant that combines **Retrieval-Augmented Generation (RAG)** with **ReAct-style agent reasoning**. It goes beyond document Q&A — deciding when to read, when to think, and when to act using tools like web search, Wikipedia, calculator, and more.
 
