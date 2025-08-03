@@ -76,6 +76,6 @@ Try the RAGent Chatbot in your browser and upload your own documents:
 
 📘 Dive deeper into the design, code, and reasoning logic in our full blog post:
 
-👉 [📝 Read the Full Guide](https://shafiqulai.github.io/blogs/blog_6.html?id=6)
+👉 [📝 Read the Full Guide](https://shafiqulai.github.io/blogs/blog_6.html)
 
 This guide walks you through the architecture, ReAct prompts, tool integration, and Qdrant-based hybrid search — everything from concept to deployment.
